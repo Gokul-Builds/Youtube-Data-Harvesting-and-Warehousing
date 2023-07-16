@@ -1,0 +1,8 @@
+streamlit
+google-api-python-client
+pymongo
+mysql-connector-python
+pymysql
+matplotlib
+pandas
+seaborn
